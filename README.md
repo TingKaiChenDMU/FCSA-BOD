@@ -1,7 +1,10 @@
 # FCSA-BOD
 
-This project involves typical attention-based object detection approaches and typical state-of-the-art object detection frameworks. In addition, the URPC2019 and DUO datasets have been provided, which can be downloaded from Baidu Cloud: 
+This project involves typical attention-based object detection approaches and typical state-of-the-art object detection frameworks. In addition, the URPC2019 and DUO datasets have been provided, which can be downloaded from Baidu Cloud.
 
+URPC2019 Dataset: https://pan.baidu.com/s/19fwkGN2Z7XmQiBvHhtVCNw (Password: lct0).
+
+DUO Dataset: https://pan.baidu.com/s/1MS_3_64IcNRELbrK4tuuvg (Password: 34ep)
 
 # Requirements
 PyTorch==1.11.0
