@@ -5,11 +5,17 @@ This project involves typical attention-based object detection approaches and ty
 
 # Requirements
 PyTorch==1.11.0
+
 cudatoolkit==10.2
+
 numpy==1.20.3
+
 matplotlib==3.3.4
+
 opencv_python==4.1.0.25
+
 Pillow==8.3.1
+
 scikit-fuzzy==0.4.2
 
 
